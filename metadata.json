@@ -1,0 +1,7 @@
+{
+  "name": "FleetCommand AI",
+  "description": "A real-time vehicle tracking platform featuring live telemetry, simulated hardware connections, and AI-driven fleet analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
